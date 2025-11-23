@@ -1,16 +1,20 @@
-## Hi there 👋
+Olá! Bem-vindo(a) ao meu GitHub
 
-<!--
-**Janaina-paiva/Janaina-paiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Janaina e sou de Brasília – DF 📍.
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UDF 🎓.
 
-Here are some ideas to get you started:
+🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Estou em constante aprendizado na área de tecnologia.
+💻 Tenho conhecimentos básicos em: HTML, CSS, JavaScript, SQL e C.
+📚 Estudo tanto na faculdade quanto por cursos online para evoluir na área de TI.
+🎯 Busco construir uma carreira sólida como desenvolvedora.
+🔧 O que você encontrará por aqui
+
+Projetos de estudo
+Exercícios da faculdade
+Pequenos experimentos com tecnologias que estou aprendendo
+Repositórios organizados conforme minha evolução na programação
+
+📫 Como me encontrar
+Se quiser trocar ideias ou colaborar em algum projeto, estou à disposição! 😊
