@@ -1,27 +1,22 @@
-Olá! Bem-vindo(a) ao meu GitHub
+👋 Olá! Bem-vindo(a) ao meu GitHub
 
-Meu nome é Janaina e sou de Brasília – DF 📍.
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UDF 🎓.
+Sou Janaina, de Brasília – DF 📍
+Estudante de Análise e Desenvolvimento de Sistemas na UDF 🎓
 
 🚀 Sobre mim
 
-🌱 Estou em constante aprendizado na área de tecnologia.
+🌱 Sempre aprendendo na área de tecnologia
+💻 Conhecimentos básicos: HTML, CSS, JavaScript, SQL e C
+📚 Estudo na faculdade e em cursos online
+🎯 Buscando construir carreira como desenvolvedora
 
-💻 Tenho conhecimentos básicos em: HTML, CSS, JavaScript, SQL e C.
+🔧 O que você encontra aqui
 
-📚 Estudo tanto na faculdade quanto por cursos online para evoluir na área de TI.
+📁 Projetos de estudo
+📝 Exercícios da faculdade
+🧪 Pequenos testes com novas tecnologias
+📂 Repositórios organizados pela minha evolução
 
-🎯 Busco construir uma carreira sólida como desenvolvedora.
+📫 Contato
 
-🔧 O que você encontrará por aqui
-
-Projetos de estudo
-Exercícios da faculdade
-
-Pequenos experimentos com tecnologias que estou aprendendo
-
-Repositórios organizados conforme minha evolução na programação
-
-📫 Como me encontrar
-
-Se quiser trocar ideias ou colaborar em algum projeto, estou à disposição! 😊
+Se quiser trocar ideias ou colaborar em algo, estou por aqui! 😊�
